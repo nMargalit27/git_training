@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 What's your name?
 My name is Alice
+=======
+Now I'm adding stuff. Do you copy?
+>>>>>>> c63a39b7125827e825aed9e29a9818719b4a939b
